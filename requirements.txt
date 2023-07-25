@@ -6,3 +6,4 @@ sklearn
 xgboost
 flask
 gunicorn
+scikit-learn
